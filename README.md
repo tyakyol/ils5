@@ -1,4 +1,4 @@
-### ILS5 Conference Poster (Presentation 3.6)
+### ILS5 Conference Poster 3.6
 
 #### Title: 
 Host genetic background modulates *ROOMIE1*-associated microbial recruitment and transcriptomic responses in *Lotus japonicus*.
@@ -10,7 +10,6 @@ Host genetic background modulates *ROOMIE1*-associated microbial recruitment and
 
 ### Download the Poster
 * [**Click here to download the full-resolution Poster PDF**](https://github.com/tyakyol/ils5/blob/6d465246c0b271d62e9d34354eda1c418274a49e/ils5_v4.pdf) 
-*(Note: Replace this with your actual raw GitHub link so it downloads instantly for mobile users!)*
 
 ---
 
